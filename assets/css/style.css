@@ -1355,3 +1355,16 @@ section {
     margin-bottom: 70px; /* More space between first button and next heading */
   }
 }
+
+/*logo*/
+.logo {
+  font-family: 'Montserrat', sans-serif; /* You can use a custom font here */
+  font-size: 2rem;
+  color: #333;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 2px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
